@@ -1,0 +1,9 @@
+venv/
+.venv/
+__pycache__/
+*.pyc
+*.bak
+.env
+.idea/
+.vscode/
+debug_processed.png
